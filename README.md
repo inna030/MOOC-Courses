@@ -12,7 +12,19 @@ One of sample curriculum can be found here:
 https://www.cs.columbia.edu/education/ms/machineLearning/
 
 
+
+
 # TRACK COURSES
 
-**Course**
--sd
+  **Course**                                    **University**                                    **States**                                  **Certificate** 
+
+-Computer Science
+
+1.Analytics in Python                             ColumbiaX 
+
+2.Introduction to Graduate Algorithms             
+
+
+
+
+
