@@ -19,13 +19,12 @@ https://www.cs.columbia.edu/education/ms/machineLearning/
 # TRACK COURSES
 
 
-- Computer Science    
-                          
+- Computer Science                           
    1. [Analytics in Python](https://www.edx.org/course/analytics-in-python) -- Columbia University <br/> 
    2. [Machine Learning with Python: from Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to) --  Massachusetts Institute of Technology
-   3. Mining Massive Dataset -- Standford University
-   4. Introduction to Graduate Algorithms -- Georgia Institute of Technology
-   5. Introduction to Operating Systems --  Georgia Institute of Technology
+   3. [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets) -- Standford University
+   4. [Introduction to Graduate Algorithms](https://www.udacity.com/course/introduction-to-graduate-algorithms--ud401https://www.udacity.com/course/introduction-to-graduate-algorithms--ud401) -- Georgia Institute of Technology
+   5. [Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923) --  Georgia Institute of Technology
 
-
--
+-Statistics
+  1.
