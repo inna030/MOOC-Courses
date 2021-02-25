@@ -1,7 +1,7 @@
 # MOOC COURSES
 
 A list of all the online courses I have taken which matches a master degree in data science. 
-Currently, I am still pursuing the degree. I mainly took courses offered by Coursera, Edx and Udacity. I took the liberty to add electives that I saw interesting. 
+Currently, I am pursuing the degree. I mainly took courses offered by Coursera, Edx and Udacity. I took the liberty to add electives that I saw interesting. 
 
 
 # Curriculum
