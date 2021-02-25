@@ -16,7 +16,9 @@ https://www.cs.columbia.edu/education/ms/machineLearning/
 # TRACK COURSES
 
 **Additional Information**
-The MicroMasters® Program from Comlumbia University and Massachusetts Institute of Technology could 
+
+The credential of MicroMasters® Program offered by Massachusetts Institute of Technology can be applied, for admitted students, towards a Ph.D. in Social and Engineering Systems (SES) through the MIT Institute for Data, Systems, and Society (IDSS).
+The credential of MicroMasters® Program offered by Columbia Univeristy can be applied, for admitted students, will receive credits from credentials towards a Master's Degree. 
 
 - Computer Science                           
    1. [Analytics in Python](https://www.edx.org/course/analytics-in-python) -- Columbia University (MicroMasters® Program) <br/> 
@@ -59,6 +61,4 @@ The MicroMasters® Program from Comlumbia University and Massachusetts Institute
       - In Progress
   5.  [Data Analysis and Presentation Skills: the PwC Approach](https://www.coursera.org/specializations/pwc-analytics) -- PWC
       - In Progress
-  6.  [Data, Models and Decisions in Business Analytics](https://www.edx.org/course/data-models-and-decisions-in-business-analytics) -- Columbia University
-      - In Progress
-      
+ 
