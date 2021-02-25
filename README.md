@@ -33,9 +33,4 @@ https://www.cs.columbia.edu/education/ms/machineLearning/
 
 
 
-| Analytics in Python                  | ColumbiaX                            |                                     ｜                                  ｜
-| Introduction to Graduate Algorithms  | Georgia Institute of Technology      |                                     ｜                                  ｜
-| Analytics in Python                  | ColumbiaX                            |                                     ｜                                  ｜
-| Introduction to Graduate Algorithms  | Georgia Institute of Technology      |                                     ｜                                  ｜
 
- 
