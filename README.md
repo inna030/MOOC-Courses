@@ -29,6 +29,9 @@ https://www.cs.columbia.edu/education/ms/machineLearning/
 | Software Architecture & Design       | Georgia Institute of Technology      |                                     ｜                                  ｜
 | Introduction to Operating Systems    | Georgia Institute of Technology      |                                     ｜                                  ｜
 |Machine Learning with Python          | Massachusetts Institute of Technology|                                     ｜                                  ｜
+
+
+
 |  Course                              |  University                          | States                              ｜ Certificate                      ｜       
 | ------------------------------------ | --------------------------------     | --------------------------------    ｜--------------------------------  ｜
 | Analytics in Python                  | ColumbiaX                            |                                     ｜                                  ｜
