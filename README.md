@@ -8,9 +8,7 @@ Currently, I am pursuing the degree. I mainly took courses offered by Coursera, 
 
 The MSDS curriculum is inspired by master programs of top-tier Universities in the USA.  
 
-The template curriculum can be found here:
-
-https://www.cs.columbia.edu/education/ms/machineLearning/
+The template curriculum can be found here: https://www.cs.columbia.edu/education/ms/machineLearning/
 
 
 # TRACK COURSES
