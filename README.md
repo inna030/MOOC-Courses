@@ -18,13 +18,16 @@ https://www.cs.columbia.edu/education/ms/machineLearning/
 
   **Course                                         University                                        States                                      Certificate**
 
-- Computer Science
+- Computer Science Domain
 
-1.Analytics in Python                             ColumbiaX 
+1.Analytics in Python                              ColumbiaX 
 
 2.Introduction to Graduate Algorithms             
 
-
+|  Course                              |  University                      |
+| -------------------------------------| -------------------------------- |
+| Analytics in Python                  | ColumbiaX                        |
+| Introduction to Graduate Algorithms  | Georgia Institute of Technology  |
 
 
 
