@@ -16,7 +16,7 @@ https://www.cs.columbia.edu/education/ms/machineLearning/
 
 # TRACK COURSES
 
-  **Course**                                    **University**                                    **States**                                  **Certificate** 
+  **Course**                                     University                                    States                                  Certificate
 
 - Computer Science
 
