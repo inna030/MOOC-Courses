@@ -42,13 +42,14 @@ https://www.cs.columbia.edu/education/ms/machineLearning/
       - In progress
 
   - Option: 
+
   7.  [Convex Optimization](https://www.edx.org/course/convex-optimization) -- Standford University
       - In progress
   8.  [Stochastic Process](https://www.coursera.org/learn/stochasticprocesses) -- HSE University
       - In progress
  
 - Business 
-  1.  [Data, Models and Decisions in Business Analytics] (https://learning.edx.org/course/course-v1:ColumbiaX+BAMM.102x+1T2021/home) -- Columbia University (MicroMasters® Program) <br/>
+  1.  [Data, Models and Decisions in Business Analytics](https://learning.edx.org/course/course-v1:ColumbiaX+BAMM.102x+1T2021/home) -- Columbia University (MicroMasters® Program)
   2.  [Marketing Analytics](https://learning.edx.org/course/course-v1:ColumbiaX+BAMM.104x+1T2021/home) -- Columbia University (MicroMasters® Program)
       - In Progress
   3.  [Data Visualization with Tableau](https://www.coursera.org/specializations/data-visualization) -- Duke University
