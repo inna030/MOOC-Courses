@@ -18,7 +18,7 @@ https://www.cs.columbia.edu/education/ms/machineLearning/
 
   **Course**                                    **University**                                    **States**                                  **Certificate** 
 
--Computer Science
+- Computer Science
 
 1.Analytics in Python                             ColumbiaX 
 
