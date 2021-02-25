@@ -41,7 +41,7 @@ https://www.cs.columbia.edu/education/ms/machineLearning/
   6.  [Statistical Learning](https://www.edx.org/course/statistical-learning) -- Standford University
       - In progress
 
-  Option: 
+  - Option: 
   7.  [Convex Optimization](https://www.edx.org/course/convex-optimization) -- Standford University
       - In progress
   8.  [Stochastic Process](https://www.coursera.org/learn/stochasticprocesses) -- HSE University
