@@ -20,7 +20,7 @@ https://www.cs.columbia.edu/education/ms/machineLearning/
 
 
 - Computer Science 
-  -Courses                              
+  - Courses                              
   
   University                          | States      ｜ Certificate     ｜   **    
 | Analytics in Python                  | Columbia University                  |             ｜                 ｜
