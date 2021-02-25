@@ -22,7 +22,7 @@ https://www.cs.columbia.edu/education/ms/machineLearning/
 - Computer Science    
                           
    1. [Analytics in Python](https://www.edx.org/course/analytics-in-python) -- Columbia University <br/> 
-   2. Machine Learning with Python: from Linear Models to Deep Learning --  Massachusetts Institute of Technology
+   2. [Machine Learning with Python: from Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to) --  Massachusetts Institute of Technology
    3. Mining Massive Dataset -- Standford University
    4. Introduction to Graduate Algorithms -- Georgia Institute of Technology
    5. Introduction to Operating Systems --  Georgia Institute of Technology
