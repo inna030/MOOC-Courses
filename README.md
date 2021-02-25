@@ -22,10 +22,14 @@ https://www.cs.columbia.edu/education/ms/machineLearning/
 - Computer Science                           
    1. [Analytics in Python](https://www.edx.org/course/analytics-in-python) -- Columbia University <br/> 
       - in progress
-   3. [Machine Learning with Python: from Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to) --  Massachusetts Institute of Technology
-   4. [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets) -- Standford University
+   2. [Machine Learning with Python: from Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to) --  Massachusetts Institute of Technology
+      - in progress
+   3. [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets) -- Standford University
+      - in progress
    5. [Introduction to Graduate Algorithms](https://www.udacity.com/course/introduction-to-graduate-algorithms--ud401https://www.udacity.com/course/introduction-to-graduate-algorithms--ud401) -- Georgia Institute of Technology
-   6. [Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923) --  Georgia Institute of Technology
+      - in progress
+   7. [Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923) --  Georgia Institute of Technology
+      - in progress
 
 - Statistics
   1.  []() --
