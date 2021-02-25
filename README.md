@@ -21,7 +21,7 @@ https://www.cs.columbia.edu/education/ms/machineLearning/
 
 - Computer Science 
   - Courses                              
-   1. Analytics in Python--------------Columbia University
+   1. Analytics in Python<br />Columbia University
    2. Mining Massive Dataset                Standford University 
 | Mining Massive Dataset               | Standford University                 |             ｜                 ｜                      
 | Introduction to Graduate Algorithms  | Georgia Institute of Technology      |             ｜                 ｜                      
