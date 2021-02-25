@@ -2,32 +2,45 @@
 
 A list of all the online courses I have taken which matches a master degree in data science. 
 Currently, I am still pursuing the degree. I mainly took courses offered by Coursera,Edx and Udacity. I took the liberty to add electives that I saw interesting. 
+EDX offers 
 
 # Curriculum
 
 The MSDS curriculum is inspired by master programs of top-tier Universities in the USA.  
 
-One of sample curriculum can be found here:
+One of template curriculum can be found here:
 
 https://www.cs.columbia.edu/education/ms/machineLearning/
 
 
 
 
+
 # TRACK COURSES
 
-  **Course                                         University                                        States                                      Certificate**
 
-- Computer Science Domain
+- Computer Science 
 
-1.Analytics in Python                              ColumbiaX 
-
-2.Introduction to Graduate Algorithms             
-
-|  Course                              |  University                      |
-| -------------------------------------| -------------------------------- |
-| Analytics in Python                  | ColumbiaX                        |
-| Introduction to Graduate Algorithms  | Georgia Institute of Technology  |
+|  Course                              |  University                      | States                              ｜ Certificate                      ｜       
+| ------------------------------------ | -------------------------------- | --------------------------------    ｜--------------------------------  ｜
+| Analytics in Python                  | Columbia University              |                                     ｜                                  ｜
+| Mining Massive Dataset               | Standford University             |                                     |                                   |
+| Introduction to Graduate Algorithms  | Georgia Institute of Technology  |                                     ｜                                  ｜
+| Software Architecture & Design       | Georgia Institute of Technology  |                                     ｜                                  ｜
+| Introduction to Operating Systems    | Georgia Institute of Technology  |                                     ｜                                  ｜
+｜Machine Learning with Python         | Massachusetts Institute of Technology|                                  |                                  | 
+|  Course                              |  University                      | States                              ｜ Certificate                      ｜       
+| ------------------------------------ | -------------------------------- | --------------------------------    ｜--------------------------------  ｜
+| Analytics in Python                  | ColumbiaX                        |                                     ｜                                  ｜
+| Introduction to Graduate Algorithms  | Georgia Institute of Technology  |                                     ｜                                  ｜
+| Analytics in Python                  | ColumbiaX                        |                                     ｜                                  ｜
+| Introduction to Graduate Algorithms  | Georgia Institute of Technology  |                                     ｜                                  ｜
+| Analytics in Python                  | ColumbiaX                        |                                     ｜                                  ｜
+| Introduction to Graduate Algorithms  | Georgia Institute of Technology  |                                     ｜                                  ｜
+| Analytics in Python                  | ColumbiaX                        |                                     ｜                                  ｜
+| Introduction to Graduate Algorithms  | Georgia Institute of Technology  |                                     ｜                                  ｜
+| Analytics in Python                  | ColumbiaX                        |                                     ｜                                  ｜
+| Introduction to Graduate Algorithms  | Georgia Institute of Technology  |                                     ｜                                  ｜
 
 
 
