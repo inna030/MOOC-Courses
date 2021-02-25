@@ -15,6 +15,9 @@ https://www.cs.columbia.edu/education/ms/machineLearning/
 
 # TRACK COURSES
 
+**Additional Information**
+The MicroMasters® Program from Comlumbia University and Massachusetts Institute of Technology could 
+
 - Computer Science                           
    1. [Analytics in Python](https://www.edx.org/course/analytics-in-python) -- Columbia University (MicroMasters® Program) <br/> 
       - In progress
@@ -41,8 +44,7 @@ https://www.cs.columbia.edu/education/ms/machineLearning/
   6.  [Statistical Learning](https://www.edx.org/course/statistical-learning) -- Standford University
       - In progress
 
-  - Option: 
-
+  - Option: <br/>
   7.  [Convex Optimization](https://www.edx.org/course/convex-optimization) -- Standford University
       - In progress
   8.  [Stochastic Process](https://www.coursera.org/learn/stochasticprocesses) -- HSE University
@@ -50,12 +52,13 @@ https://www.cs.columbia.edu/education/ms/machineLearning/
  
 - Business 
   1.  [Data, Models and Decisions in Business Analytics](https://learning.edx.org/course/course-v1:ColumbiaX+BAMM.102x+1T2021/home) -- Columbia University (MicroMasters® Program)
-  2.  [Marketing Analytics](https://learning.edx.org/course/course-v1:ColumbiaX+BAMM.104x+1T2021/home) -- Columbia University (MicroMasters® Program)
       - In Progress
-  3.  [Data Visualization with Tableau](https://www.coursera.org/specializations/data-visualization) -- Duke University
+  3.  [Marketing Analytics](https://learning.edx.org/course/course-v1:ColumbiaX+BAMM.104x+1T2021/home) -- Columbia University (MicroMasters® Program)
       - In Progress
-  4.  [Data Analysis and Presentation Skills: the PwC Approach](https://www.coursera.org/specializations/pwc-analytics) -- PWC
+  4.  [Data Visualization with Tableau](https://www.coursera.org/specializations/data-visualization) -- Duke University
       - In Progress
-  5.  [Data, Models and Decisions in Business Analytics](https://www.edx.org/course/data-models-and-decisions-in-business-analytics) -- Columbia University
+  5.  [Data Analysis and Presentation Skills: the PwC Approach](https://www.coursera.org/specializations/pwc-analytics) -- PWC
+      - In Progress
+  6.  [Data, Models and Decisions in Business Analytics](https://www.edx.org/course/data-models-and-decisions-in-business-analytics) -- Columbia University
       - In Progress
       
