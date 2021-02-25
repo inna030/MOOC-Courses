@@ -26,5 +26,5 @@ https://www.cs.columbia.edu/education/ms/machineLearning/
    4. Introduction to Operating Systems --  Georgia Institute of Technology
    5. Machine Learning with Python: from Linear Models to Deep Learning --  Massachusetts Institute of Technology
 | Command | Description | Command | Description |
-| --- | --- | --- | --- |
+| ---     |         --- | ---     | ---         |
 
