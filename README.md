@@ -21,18 +21,18 @@ https://www.cs.columbia.edu/education/ms/machineLearning/
 
 - Computer Science 
 
-|  Course                              |  University                      | States                              ｜ Certificate                      ｜       
-| ------------------------------------ | -------------------------------- | --------------------------------    ｜--------------------------------  ｜
-| Analytics in Python                  | Columbia University              |                                     ｜                                  ｜
-| Mining Massive Dataset               | Standford University             |                                     |                                   |
-| Introduction to Graduate Algorithms  | Georgia Institute of Technology  |                                     ｜                                  ｜
-| Software Architecture & Design       | Georgia Institute of Technology  |                                     ｜                                  ｜
-| Introduction to Operating Systems    | Georgia Institute of Technology  |                                     ｜                                  ｜
-｜Machine Learning with Python         | Massachusetts Institute of Technology|                                  |                                  | 
-|  Course                              |  University                      | States                              ｜ Certificate                      ｜       
-| ------------------------------------ | -------------------------------- | --------------------------------    ｜--------------------------------  ｜
-| Analytics in Python                  | ColumbiaX                        |                                     ｜                                  ｜
-| Introduction to Graduate Algorithms  | Georgia Institute of Technology  |                                     ｜                                  ｜
+|  Course                              |  University                          | States                              ｜ Certificate                      ｜       
+| ------------------------------------ | --------------------------------     | --------------------------------    ｜--------------------------------  ｜
+| Analytics in Python                  | Columbia University                  |                                     ｜                                  ｜
+| Mining Massive Dataset               | Standford University                 |                                     ｜                                  ｜
+| Introduction to Graduate Algorithms  | Georgia Institute of Technology      |                                     ｜                                  ｜
+| Software Architecture & Design       | Georgia Institute of Technology      |                                     ｜                                  ｜
+| Introduction to Operating Systems    | Georgia Institute of Technology      |                                     ｜                                  ｜
+|Machine Learning with Python          | Massachusetts Institute of Technology|                                     ｜                                  ｜
+|  Course                              |  University                          | States                              ｜ Certificate                      ｜       
+| ------------------------------------ | --------------------------------     | --------------------------------    ｜--------------------------------  ｜
+| Analytics in Python                  | ColumbiaX                            |                                     ｜                                  ｜
+| Introduction to Graduate Algorithms  | Georgia Institute of Technology      |                                     ｜                                  ｜
 | Analytics in Python                  | ColumbiaX                        |                                     ｜                                  ｜
 | Introduction to Graduate Algorithms  | Georgia Institute of Technology  |                                     ｜                                  ｜
 | Analytics in Python                  | ColumbiaX                        |                                     ｜                                  ｜
