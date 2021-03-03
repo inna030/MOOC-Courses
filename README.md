@@ -28,8 +28,11 @@ The credential of the MicroMasters® Program offered by Columbia University can 
       - In progress
    4. [Introduction to Graduate Algorithms](https://www.udacity.com/course/introduction-to-graduate-algorithms--ud401https://www.udacity.com/course/introduction-to-graduate-algorithms--ud401) -- Georgia Institute of Technology
       - In progress
-   5. [Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923) --  Georgia Institute of Technology
+   5. [Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923) -- Georgia Institute of Technology
       - In progress
+   - Option: <br/>
+   6. [Artificial Intelligence (AI)]
+   7. [data Engineer with Google Cloud](https://www.coursera.org/professional-certificates/gcp-data-engineering) -- Google
 
 - Statistics
   1.  [Probability](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data) -- Massachusetts Institute of Technology (MicroMasters® Program) <br/>
@@ -38,11 +41,9 @@ The credential of the MicroMasters® Program offered by Columbia University can 
       - In progress
   3.  [Data Analysis in Social Science—Assessing Your Knowledge](https://www.edx.org/course/data-analysis-in-social-scienceassessing-your-know) -- Massachusetts Institute of Technology (MicroMasters® Program)
       - In progress
-  4.  [Inferring Causal Effects from Observational Data](https://www.coursera.org/learn/crash-course-in-causality/home/welcome) -- The University of Pennsylvania
-      - In progress 
-  5.  [Bayesian Statistics](https://www.coursera.org/learn/bayesian-statistics) -- University of California, Santa Cruz
+  4.  [Bayesian Statistics](https://www.coursera.org/learn/bayesian-statistics) -- University of California, Santa Cruz
       - In progress
-  6.  [Statistical Learning](https://www.edx.org/course/statistical-learning) -- Standford University
+  5.  [Statistical Learning](https://www.edx.org/course/statistical-learning) -- Standford University
       - In progress
 
   - Option: <br/>
@@ -58,9 +59,11 @@ The credential of the MicroMasters® Program offered by Columbia University can 
       - In Progress
   4.  [Excel Skills for Business](https://www.coursera.org/specializations/excel?utm_source=gg&utm_medium=sem&utm_campaign=13-Excel-Macquarie-US&utm_content=13-Excel-Macquarie-US&campaignid=6663908113&adgroupid=105717488076&device=c&keyword=&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=453120977941&hide_mobile_promo&gclid=Cj0KCQiAhP2BBhDdARIsAJEzXlFSeZP0jmCpqkESQliFWoh_ZPN7exE7zMcGrbYXRhRHFFjjBBf1oUYaAoXEEALw_wcB) -- Macquarie University
       - [Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/7PWUXD2EARN6)
-  5.  [Foundational Finance for Strategic Decision Making](https://www.coursera.org/specializations/foundational-finance) --University of Michigan
+  5.  [Foundational Finance for Strategic Decision Making](https://www.coursera.org/specializations/foundational-finance) -- University of Michigan
       - [Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/P9CT7QXK8Q3J)
-  6.  [Business Metrics for Data-Driven Companies](https://www.coursera.org/learn/analytics-business-metrics) -Duke University
-      - Verify Certificate](https://www.coursera.org/account/accomplishments/verify/6UQURRHCZAQB)
+  6.  [Business Metrics for Data-Driven Companies](https://www.coursera.org/learn/analytics-business-metrics) -- Duke University
+      - [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/6UQURRHCZAQB)
+  - Option: <br/>
+  
   
  
