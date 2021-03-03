@@ -56,8 +56,11 @@ The credential of the MicroMasters® Program offered by Columbia University can 
       - In Progress
   3.  [Marketing Analytics](https://learning.edx.org/course/course-v1:ColumbiaX+BAMM.104x+1T2021/home) -- Columbia University (MicroMasters® Program)
       - In Progress
-  4.  [Data Visualization with Tableau](https://www.coursera.org/specializations/data-visualization) -- Duke University
-      - In Progress
-  5.  [Data Analysis and Presentation Skills: the PwC Approach](https://www.coursera.org/specializations/pwc-analytics) -- PWC
-      - In Progress
+  4.  [Excel Skills for Business](https://www.coursera.org/specializations/excel?utm_source=gg&utm_medium=sem&utm_campaign=13-Excel-Macquarie-US&utm_content=13-Excel-Macquarie-US&campaignid=6663908113&adgroupid=105717488076&device=c&keyword=&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=453120977941&hide_mobile_promo&gclid=Cj0KCQiAhP2BBhDdARIsAJEzXlFSeZP0jmCpqkESQliFWoh_ZPN7exE7zMcGrbYXRhRHFFjjBBf1oUYaAoXEEALw_wcB) -- Macquarie University
+      -[Verify Certificate] (https://www.coursera.org/account/accomplishments/specialization/certificate/7PWUXD2EARN6)
+  5.  [Foundational Finance for Strategic Decision Making](https://www.coursera.org/specializations/foundational-finance) --University of Michigan
+      -[Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/P9CT7QXK8Q3J)
+  6.  [Business Metrics for Data-Driven Companies](https://www.coursera.org/learn/analytics-business-metrics) -Duke University
+      -[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/6UQURRHCZAQB)
+  
  
