@@ -31,8 +31,8 @@ The credential of the MicroMasters® Program offered by Columbia University can 
    5. [Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923) -- Georgia Institute of Technology
       - In progress
    - Option: <br/>
-   6. [Artificial Intelligence (AI)]
-   7. [data Engineer with Google Cloud](https://www.coursera.org/professional-certificates/gcp-data-engineering) -- Google
+   6. [Artificial Intelligence (AI)] -- Columbia University (MicroMasters® Program)
+   7. [Machine Learning] -- Columbia University (MicroMasters® Program)
 
 - Statistics
   1.  [Probability](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data) -- Massachusetts Institute of Technology (MicroMasters® Program) <br/>
