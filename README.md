@@ -30,9 +30,11 @@ The credential of the MicroMasters® Program offered by Columbia University can 
       - In progress
    5. [Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923) -- Georgia Institute of Technology
       - In progress
+   6. [Data Wrangling, Analysis and AB Testing with SQL](https://www.coursera.org/learn/data-wrangling-analysis-abtesting/home/welcome) -- UC Davis
+      - [Verify Certificate](https://coursera.org/share/7628a79013f9225799e8d36c3bd59ffa)
    - Option: <br/>
-   6. [Artificial Intelligence (AI)] -- Columbia University (MicroMasters® Program)
-   7. [Machine Learning] -- Columbia University (MicroMasters® Program)
+   8. [Artificial Intelligence (AI)] -- Columbia University (MicroMasters® Program)
+   9. [Machine Learning] -- Columbia University (MicroMasters® Program)
 
 - Statistics
   1.  [Probability](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data) -- Massachusetts Institute of Technology (MicroMasters® Program) <br/>
