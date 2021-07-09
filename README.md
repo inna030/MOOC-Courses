@@ -21,9 +21,9 @@ The credential of the MicroMasters® Program offered by Columbia University can 
 
 - Computer Science                           
    1. [Analytics in Python](https://www.edx.org/course/analytics-in-python) -- Columbia University (MicroMasters® Program) <br/> 
-      - In progress
+      - Finished
    2. [Machine Learning with Python: from Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to) --  Massachusetts Institute of Technology (MicroMasters® Program)
-      - In progress
+      - Finished
    3. [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets) -- Standford University
       - In progress
    4. [Introduction to Graduate Algorithms](https://www.udacity.com/course/introduction-to-graduate-algorithms--ud401https://www.udacity.com/course/introduction-to-graduate-algorithms--ud401) -- Georgia Institute of Technology
@@ -35,12 +35,13 @@ The credential of the MicroMasters® Program offered by Columbia University can 
    - Option: <br/>
    8. [Artificial Intelligence (AI)] -- Columbia University (MicroMasters® Program)
    9. [Machine Learning] -- Columbia University (MicroMasters® Program)
+      - Finished
 
 - Statistics
   1.  [Probability](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data) -- Massachusetts Institute of Technology (MicroMasters® Program) <br/>
-      - In progress
+      - Finished
   2.  [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics) -- Massachusetts Institute of Technology (MicroMasters® Program)
-      - In progress
+      - Finished
   3.  [Data Analysis in Social Science—Assessing Your Knowledge](https://www.edx.org/course/data-analysis-in-social-scienceassessing-your-know) -- Massachusetts Institute of Technology (MicroMasters® Program)
       - In progress
   4.  [Bayesian Statistics](https://www.coursera.org/learn/bayesian-statistics) -- University of California, Santa Cruz
