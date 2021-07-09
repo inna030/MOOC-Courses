@@ -13,11 +13,6 @@ The template curriculum can be found here: https://www.cs.columbia.edu/education
 
 # TRACK COURSES
 
-**Additional Information**
-
-The credential of the MicroMasters® Program offered by Massachusetts Institute of Technology can be applied, for admitted students, towards a Ph.D. in Social and Engineering Systems (SES) through the MIT Institute for Data, Systems, and Society (IDSS) or other master degrees.
-
-The credential of the MicroMasters® Program offered by Columbia University can be applied, for admitted students, will receive credits from the credential towards a Master's Degree.
 
 - Computer Science                           
    1. [Analytics in Python](https://www.edx.org/course/analytics-in-python) -- Columbia University (MicroMasters® Program) <br/> 
